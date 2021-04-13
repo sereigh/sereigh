@@ -8,6 +8,8 @@
 [![REDDIT](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Sereigh/)
 [![STEAM](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/rebelromance/)
 
+#### A little about me
+
 - 😄 Pronouns: she/her/hers
 
 - 💬 Ask me about: Docker or MongoDB
@@ -18,6 +20,13 @@
 
 - ⚡ Fun fact: I love singing karaoke!
 
-![Ubuntu](https://badgen.net/badge/ENV/Ubuntu|Bash|Vim|VScode)
+#### My stack
 
-![Metrics](https://metrics.lecoq.io/sereigh?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&activity=1&lines=1&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&activity.limit=5&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&config.timezone=America%2FChicago)
+![Dev Env](https://badgen.net/badge/ENV/Linux:Ubuntu|Bash|Vim|VScode|Node.js|npm/2F4F4F "Personal Development Environment")  ![Tools](https://badgen.net/badge/Tools/Babel|Webpack|Parcel.js/4682B4 "DBMS Skills")
+
+![Libraries](https://badgen.net/badge/Libraries/Chai|jQuery|ReactJS/778899 "Library Skills")   ![Platforms](https://badgen.net/badge/Platforms/Docker|AWS-EC2-ECS|GCP-GCS-GCE/778899 "Platform Skills")
+
+![Frameworks](https://badgen.net/badge/Frameworks/Express.js|Mocha|Jest/778899 "Framework Skills")  ![DBMS](https://badgen.net/badge/DBMS/Mongoose|MongoDB|MySQL|SQLite3/778899 "DBMS Skills")
+
+![Metrics](https://metrics.lecoq.io/sereigh?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FChicago)
+
