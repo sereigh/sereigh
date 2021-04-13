@@ -22,11 +22,11 @@
 
 #### My stack
 
-![Dev Env](https://badgen.net/badge/ENV/Linux:Ubuntu|Bash|Vim|VScode|Node.js|npm/2F4F4F "Personal Development Environment")  ![Tools](https://badgen.net/badge/Tools/Babel|Webpack|Parcel.js|loader.io/4682B4 "DBMS Skills")
+![Dev Env](https://badgen.net/badge/ENV/Linux:%20Ubuntu%20|%20Bash%20|%20Vim%20|%20VScode%20|%20Node.js%20|%20npm/2F4F4F "Personal Development Environment")  ![Tools](https://badgen.net/badge/Tools/Babel%20|%20Webpack%20|%20Parcel.js%20|%20loader.io/4682B4 "DBMS Skills")
 
-![Libraries](https://badgen.net/badge/Libraries/Chai|jQuery|ReactJS/778899 "Library Skills")   ![Platforms](https://badgen.net/badge/Platforms/Docker|AWS-EC2-ECS|GCP-GCS-GCE/778899 "Platform Skills")
+![Libraries](https://badgen.net/badge/Libraries/Chai%20|%20jQuery%20|%20Mongoose%20|%20ReactJS/778899 "Library Skills")   ![Platforms](https://badgen.net/badge/Platforms/Docker%20|%20AWS:%20EC2,%20ECS%20|GCP:%20GCS,%20GCE/778899 "Platform Skills")
 
-![Frameworks](https://badgen.net/badge/Frameworks/Express|Mocha|Jest|Artillery/778899 "Framework Skills")  ![DBMS](https://badgen.net/badge/DBMS/Mongoose|MongoDB|MySQL|SQLite3/778899 "DBMS Skills")
+![Frameworks](https://badgen.net/badge/Frameworks/Express%20|%20Mocha%20|%20Jest%20|%20Artillery/778899 "Framework Skills")  ![DBMS](https://badgen.net/badge/DBMS/MongoDB%20|%20MySQL%20|%20SQLite3/778899 "DBMS Skills")
 
 ![Metrics](https://metrics.lecoq.io/sereigh?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FChicago)
 
