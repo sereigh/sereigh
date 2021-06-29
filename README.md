@@ -14,9 +14,9 @@
 
 - 💬 Ask me about: Docker or MongoDB
 
-- 🔭 I’m currently working on system design patterns. 
+- 🔭 I’m currently working on an artist exchange application. 
 
-- 🌱 I’m currently learning about open source contributions.
+- 🌱 I’m currently learning about Golang.
 
 - ⚡ Fun fact: I love singing karaoke!
 
