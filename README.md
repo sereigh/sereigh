@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently working on an artist exchange application. 
 
-- 🌱 I’m currently learning about Golang.
+- 🌱 I’m currently learning about TypeScript.
 
 - ⚡ Fun fact: I love singing karaoke!
 
